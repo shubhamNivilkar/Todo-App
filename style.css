@@ -58,6 +58,7 @@ body{
     background-color: rgb(255, 115, 0);
     border: none;
     color: rgb(255, 255, 255);
+    cursor: pointer;
 }
 #tasks{
     background-color: white;
